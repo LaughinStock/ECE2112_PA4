@@ -66,7 +66,11 @@ and skewness in the data. In order to create the box plot, utilize the libraries
 
 # Version History
 
+The verion history includes:
+
+Initial submission for the progress report.
 PA4PR: [Domingo_JF_PA4_PR.pdf](https://github.com/user-attachments/files/17023590/Domingo_JF_PA4_PR.pdf)
 
+Final submission for the assignment.
 PA4.0: [Domingo_JF_PA4.pdf](https://github.com/user-attachments/files/17023591/Domingo_JF_PA4.pdf)
 
