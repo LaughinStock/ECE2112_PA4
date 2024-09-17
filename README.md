@@ -64,13 +64,27 @@ and skewness in the data. In order to create the box plot, utilize the libraries
 
 ![image](https://github.com/user-attachments/assets/f7bf003d-00af-49ea-a3b4-60b86217c9bc)
 
+### C.) Final thoughts in the graphs
+
+While it is interesting to see the difference between the median average score of the groups in the two tables, there is a subtle effect in the contribution of a higher score whether your gender is different and from where you live. 
+
+But in the first graph between genders, both of them perform almost similar to one another with each one trailing behind slightly compared to the other group. 
+
+In the second graph, you can see that the overall largest sample range comes from Luzon while Visayas and Mindanao (in order) falls behind. But on overall performance in the board exam, there is a clear winner. Graduates from Luzon who took the board exams have a higher median score compared to their peers in Visayas and Mindanao. And this clearly reflects the current situation in the Philippines. Most well-known and established universities in the Philippines are in Luzon which gives them a slight advantage in the board exams. But medians aside, every now and then there would be a graduate who tops the board exam who came from state universities and local private colleges who can easily top the board exams. It would ultimately come down as to how the graduate or the exam taker is prepared for the exam.  
+
 # Version History
 
 The verion history includes:
 
 Initial submission for the progress report.
+
 PA4PR: [Domingo_JF_PA4_PR.pdf](https://github.com/user-attachments/files/17023590/Domingo_JF_PA4_PR.pdf)
 
-Final submission for the assignment.
-PA4.0: [Domingo_JF_PA4.pdf](https://github.com/user-attachments/files/17023591/Domingo_JF_PA4.pdf)
+Program without the graph interpretation.
 
+PA4.0: [Domingo_JF_PA4_P1.pdf](https://github.com/user-attachments/files/17023968/Domingo_JF_PA4_P1.pdf)
+
+
+Program with the graph interpretation and opinions.
+
+PA4.1: [Domingo_JF_PA4.pdf](https://github.com/user-attachments/files/17023970/Domingo_JF_PA4.pdf)
